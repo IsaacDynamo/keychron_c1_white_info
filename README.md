@@ -3,10 +3,17 @@
 ## PCB version
 Keychron C1 White Ver.1.2/20200720
 
+![board_version](/board_version.png)
+
 ## MCU 
 HFD48KC900
 
 This seem to be a rebranded SN32F268
+
+![mcu](/mcu.png)
+
+## PCB
+![board_back](/board_back.png)
 
 ## Pinout
 | Pin          | Function   
